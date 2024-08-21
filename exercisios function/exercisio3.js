@@ -19,3 +19,7 @@ function somaDigitosUsuario() {
   }
   
   somaDigitosUsuario();
+
+//isNaN() é uma função  que verifica se um valor é "Not a Number" (não é um número). Ela retorna true se o valor não for um número válido e false caso contrário.
+
+//parseInt() é uma função  que converte uma string em um número inteiro. Ela tenta extrair um número inteiro da string, começando da esquerda, e retorna o valor convertido.
